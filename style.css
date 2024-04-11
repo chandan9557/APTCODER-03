@@ -249,7 +249,7 @@
      border-radius: 10px;
  }
 
- @media screen and (max-width:576px) {
+ /* @media screen and (max-width:576px) {
      .left-box {
          margin-left: 30%;
      }
@@ -257,4 +257,4 @@
      header {
          margin-left: 46%;
      }
- }
+ } */
